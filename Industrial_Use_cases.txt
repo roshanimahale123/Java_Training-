@@ -1,0 +1,3 @@
+Recursion
+
+Meta (Facebook / Instagram): Uses mutual recursion to power the Graph API for mapping user friendships and engagements. When a query fetches a user’s profile, a recursive function maps out "friends of friends" or nested comments under a post.
